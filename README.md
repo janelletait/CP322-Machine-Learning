@@ -3,7 +3,7 @@ Assignment 1:
 ------------------------
 Provided inputs and data (pred_model1.csv, pred_model2.csv, and target.csv) as well as provided code and program description (Assignment1.ipynb) can be found within Assignment1.zip.
 
-My solution is Assignment1.ipynb.
+My solution is Assignment1_solution.ipynb.
 
 Assignment 2:
 ------------------------

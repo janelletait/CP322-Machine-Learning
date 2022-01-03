@@ -9,7 +9,7 @@ Assignment 2:
 ------------------------
 Provided inputs and data (description.txt and train.txt) as well as provided code and program description (Assignment2.ipynb) can be found within Assignment2.zip.
 
-My solution is Assignment2.ipynb.
+My solution is Assignment2_solution.ipynb.
 
 Assignment 3:
 ------------------------

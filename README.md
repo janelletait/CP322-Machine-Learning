@@ -13,6 +13,6 @@ My solution is Assignment2_solution.ipynb.
 
 Assignment 3:
 ------------------------
-Provided inputs and data (test_nolabel.csv and train.csv) as well as provided code and program description (Assignment3.ipynb) can be found within CP322Assignment3.zip.
+Provided inputs and data (test_nolabel.csv and train.csv) as well as provided code and program description (Assignment3.ipynb) can be found within Assignment3.zip.
 
-My solution is JanelleAssignment3.ipynb, along with model drawings (Model Drawings -Janelle Tait.pdf) and my output (pred.csv).
+My solution is Assignment3_solution.ipynb, along with model drawings (Model Drawings -Janelle Tait.pdf) and my output (pred.csv).

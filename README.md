@@ -7,7 +7,7 @@ My solution is Assignment1_solution.ipynb.
 
 Assignment 2:
 ------------------------
-Provided inputs and data (description.txt and train.txt) as well as provided code and program description (Assignment2.ipynb) can be found within A2_2021W.zip.
+Provided inputs and data (description.txt and train.txt) as well as provided code and program description (Assignment2.ipynb) can be found within Assignment2.zip.
 
 My solution is Assignment2.ipynb.
 
